@@ -193,7 +193,7 @@ LIMIT number;
 ```
 <img src="https://github.com/Yuki69Okita/Learning_SQL/blob/main/images/results%20from%20B.sql/limit.png" alt="deletefrom" width="550"/>
 
-## AS:
+## 13. AS:
 - Gives a temporary name.
 - An alias only exists for a duration of that query.
 - Use quotation marks for long name with spaces.
