@@ -5,25 +5,48 @@ I'd be very grateful.
 
 <details>
   <summary>01. Data and Database</summary>
-    1. &nbsp; [Data]() <br  />
-    2. &nbsp; [Database]() <br  />
-    3. &nbsp; [Types of Databases and Database Systems]() <br  />
-    4. &nbsp; [Database Management System]() <br  />
-    5. &nbsp; [Table]() <br  />
-    6. &nbsp; [Structured Query Language]() <br  />
-    7. &nbsp; [SQL Statement]() <br  />
-    8. &nbsp; [SQL Keywords]() <br  />
+  
+1. &nbsp; [Data](https://github.com/Yuki69Okita/Learning_SQL/tree/main#1-data) <br  />
+2. &nbsp; [Database](https://github.com/Yuki69Okita/Learning_SQL/tree/main#2-database-db) <br  />
+3. &nbsp; [Types of Databases and Database Systems](https://github.com/Yuki69Okita/Learning_SQL/tree/main#3-types-of-databases-and-database-systems) <br  />
+4. &nbsp; [Database Management System](https://github.com/Yuki69Okita/Learning_SQL/tree/main#4-database-management-system-dbms) <br  />
+5. &nbsp; [Table](https://github.com/Yuki69Okita/Learning_SQL/tree/main#5-table) <br  />
+6. &nbsp; [Structured Query Language](https://github.com/Yuki69Okita/Learning_SQL/tree/main#6-structured-query-language-sql) <br  />
+7. &nbsp; [SQL Statement](https://github.com/Yuki69Okita/Learning_SQL/tree/main#7-sql-statement) <br  />
+8. &nbsp; [SQL Keywords](https://github.com/Yuki69Okita/Learning_SQL/tree/main#8-sql-keywords) <br  />
+
 </details>
 
 <details>
   <summary>02. Database and Table Statements</summary>
-    1. &nbsp; [To write first SQL statement](https://github.com/Yuki69Okita/Learning_SQL/tree/main/02.%20Database%20and%20Table%20Statements#1-to-write-first-sql-statement)<br  />
-    2. &nbsp; [Database statements](https://github.com/Yuki69Okita/Learning_SQL/tree/main/02.%20Database%20and%20Table%20Statements#2-database-statements)
-  <br  />
-    3. &nbsp; [Data Types](https://github.com/Yuki69Okita/Learning_SQL/tree/main/02.%20Database%20and%20Table%20Statements#3-data-types)<br  />
-    4. &nbsp; [Constraints](https://github.com/Yuki69Okita/Learning_SQL/tree/main/02.%20Database%20and%20Table%20Statements#3-constraints)<br  />
-    5. &nbsp; [Table statements](https://github.com/Yuki69Okita/Learning_SQL/tree/main/02.%20Database%20and%20Table%20Statements#4-table-statements)<br  />
+  
+1. &nbsp; [To write first SQL statement](https://github.com/Yuki69Okita/Learning_SQL/tree/main/02.%20Database%20and%20Table%20Statements#1-to-write-first-sql-statement) <br  />
+2. &nbsp; [Database statements](https://github.com/Yuki69Okita/Learning_SQL/tree/main/02.%20Database%20and%20Table%20Statements#2-database-statements) <br  />
+3. &nbsp; [Data Types](https://github.com/Yuki69Okita/Learning_SQL/tree/main/02.%20Database%20and%20Table%20Statements#3-data-types) <br  />
+4. &nbsp; [Constraints](https://github.com/Yuki69Okita/Learning_SQL/tree/main/02.%20Database%20and%20Table%20Statements#4-constraints) <br  />
+5. &nbsp; [Table statements](https://github.com/Yuki69Okita/Learning_SQL/tree/main/02.%20Database%20and%20Table%20Statements#5-table-statements) <br  />
+
 </details>
+
+<details>
+  <summary>03. Data and Database</summary>
+  
+1. &nbsp; [SELECT/FROM](https://github.com/Yuki69Okita/Learning_SQL/tree/main/03.%20Data%20Statements#1-selectfrom) <br  />
+2. &nbsp; [SELECT DISTINCT](https://github.com/Yuki69Okita/Learning_SQL/tree/main/03.%20Data%20Statements#2-select-distinct) <br  />
+3. &nbsp; [WHERE](https://github.com/Yuki69Okita/Learning_SQL/tree/main/03.%20Data%20Statements#3-where) <br  />
+4. &nbsp; [ORDER BY ASC|DESC](https://github.com/Yuki69Okita/Learning_SQL/tree/main/03.%20Data%20Statements#4-order-by-ascdesc) <br  />
+5. &nbsp; [AND](https://github.com/Yuki69Okita/Learning_SQL/tree/main/03.%20Data%20Statements#5-and) <br  />
+6. &nbsp; [OR](https://github.com/Yuki69Okita/Learning_SQL/tree/main/03.%20Data%20Statements#6-or) <br  />
+7. &nbsp; [Combined AND and OR](https://github.com/Yuki69Okita/Learning_SQL/tree/main/03.%20Data%20Statements#7-combined-and-and-or) <br  />
+8. &nbsp; [NOT](https://github.com/Yuki69Okita/Learning_SQL/tree/main/03.%20Data%20Statements#8-not) <br  />
+9. &nbsp; [IS NULL|IS NOT NULL](https://github.com/Yuki69Okita/Learning_SQL/blob/main/03.%20Data%20Statements/README.md#9-is-nullis-not-null) <br  />
+10. &nbsp; [UPDATE/SET](https://github.com/Yuki69Okita/Learning_SQL/blob/main/03.%20Data%20Statements/README.md#10-updateset) <br  />
+11. &nbsp; [DELETE FROM](https://github.com/Yuki69Okita/Learning_SQL/blob/main/03.%20Data%20Statements/README.md#11-delete-from) <br  />
+12. &nbsp; [LIMIT](https://github.com/Yuki69Okita/Learning_SQL/blob/main/03.%20Data%20Statements/README.md#12-limit) <br  />
+13. &nbsp; [AS](https://github.com/Yuki69Okita/Learning_SQL/blob/main/03.%20Data%20Statements/README.md#13-as) <br  />
+
+</details>
+
 <hr  />
 
 # 01. Data and Database
