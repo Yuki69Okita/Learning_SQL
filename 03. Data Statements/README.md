@@ -5,7 +5,7 @@ I'd be very grateful. <br  />
 You can see the examples from this lesson in "B.sql".
 <hr  />
 
-# 02. Data Statements
+# 03. Data Statements
 
 ## 1. SELECT/FROM:
 - Used to select data from a database.
