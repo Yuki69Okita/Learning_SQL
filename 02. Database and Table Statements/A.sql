@@ -62,21 +62,21 @@ MODIFY COLUMN Rating INT;
 INSERT INTO Games (Game_Name, Release_Date, Publisher_ID, Developer_ID, Achivements, Rating)
 VALUES
 	("The Binding of Isaac: Rebirth", "2014-11-04", 1, 1, TRUE, 8),
-    ("The Legend of Bum-Bo", "2019-11-12", 1, 2, FALSE, 5),
-    ("DARK SOULS™ III", "2016-04-11", 3, 3, TRUE, 10),
-    ("Mortal Kombat 11", "2019-04-23", 5, 4, TRUE, NULL);
+	("The Legend of Bum-Bo", "2019-11-12", 1, 2, FALSE, 5),
+	("DARK SOULS™ III", "2016-04-11", 3, 3, TRUE, 10),
+	("Mortal Kombat 11", "2019-04-23", 5, 4, TRUE, NULL);
     
 INSERT INTO Publishers (Publisher_Name)
 VALUES
 	("Nicalis, Inc."),
-    ("Edmund McMillen"),
-    ("FromSoftware, Inc."),
-    ("Pine Studio"),
-    ("Warner Bros. Games");
+	("Edmund McMillen"),
+	("FromSoftware, Inc."),
+	("Pine Studio"),
+	("Warner Bros. Games");
     
 INSERT INTO Developers (Developer_Name)
 VALUES
 	("Nicalis, Inc."),
-    ("Edmund McMillen"),
-    ("FromSoftware, Inc."),
-    ("Warner Bros. Games");
+	("Edmund McMillen"),
+	("FromSoftware, Inc."),
+	("Warner Bros. Games");
