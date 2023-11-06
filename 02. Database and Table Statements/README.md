@@ -193,7 +193,7 @@ USE database_name;
 	    - A year in four-digit format.
 	    - Values allowed in four-digit format: 1901 to 2155, and 0000.
 
-## 3. Constraints:
+## 4. Constraints:
   - Constraints are used to specify rules for data in a table.
   - You can have multiple constrains on one column.<br  /><br  />
 
@@ -224,7 +224,7 @@ USE database_name;
 	    - By default, the value starts with 1 and it will be incremented with 1.
 	    - To change default starting value: ALTER TABLE table_name AUTO_INCREMENT = new_value;
 
-## 4. Table statements:
+## 5. Table statements:
   - Creates a table in the database:
 ```sql
 CREATE table_name (
